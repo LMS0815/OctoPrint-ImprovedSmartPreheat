@@ -1,3 +1,5 @@
+This is forked from (https://github.com/kantlivelong/OctoPrint-SmartPreheat) as I had to fix bugs for my.
+
 # OctoPrint Improved Smart Preheat
 This OctoPrint plugin reads the currently selected GCode file to determine what temperatures will be set prior to extrusion and exposes the values as variables which can be used in scripts. This plugin also provides its own default GCode snippet script which can be included in other existing GCode scripts.
 
@@ -13,7 +15,6 @@ This OctoPrint plugin reads the currently selected GCode file to determine what 
 
 ![SmartPreHeat-GCode-Scripts-beforePrintStarted](extra/screenshots/beforePrintStarted.png?raw=true)
 
-This started out as a fork of [marian42/OctoPrint-Preheat](https://github.com/marian42/octoprint-preheat) but I ended up completely rewriting and changing things.
 
 ## Setup
 Install the plugin using Plugin Manager from Settings
