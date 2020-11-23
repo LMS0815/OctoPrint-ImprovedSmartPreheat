@@ -1,4 +1,4 @@
-# OctoPrint Smart Preheat
+# OctoPrint Improved Smart Preheat
 This OctoPrint plugin reads the currently selected GCode file to determine what temperatures will be set prior to extrusion and exposes the values as variables which can be used in scripts. This plugin also provides its own default GCode snippet script which can be included in other existing GCode scripts.
 
 ##### Benefits:
