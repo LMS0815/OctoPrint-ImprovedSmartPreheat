@@ -5,12 +5,12 @@ import setuptools
 
 plugin_identifier = "smartpreheat"
 plugin_package = "octoprint_%s" % plugin_identifier
-plugin_name = "OctoPrint-SmartPreheat"
-plugin_version = "0.0.4"
+plugin_name = "OctoPrint-ImprovedSmartPreheat"
+plugin_version = "1.0.0"
 plugin_description = "Reads GCode files to determine starting temperatures and allows setting those temperatures inside scripts."
 plugin_author = "Shawn Bruce"
 plugin_author_email = "kantlivelong@gmail.com"
-plugin_url = "https://github.com/kantlivelong/OctoPrint-SmartPreheat"
+plugin_url = "https://github.com/lsm0815/OctoPrint-ImprovedSmartPreheat"
 plugin_license = "AGPLv3"
 plugin_additional_data = []
 
